@@ -1,3 +1,5 @@
+# Aloha, I'm [Yared Arega!](#) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+
 # 💫 About Me:
 🔭 Currently working on a real estate management system<br>🌱 I’m currently learning android development<br>💬 Ask me about react.js, Node.js, and express.js.<br>⚡ Fun fact i prefer movies to games.
 
